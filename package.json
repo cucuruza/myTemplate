@@ -10,9 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.27.7",
+    "bootstrap": "^5.3.2",
+    "browser-sync": "^2.29.3",
     "compress-images": "^2.0.5",
-    "del": "^6.0.0",
+    "del": "^6.1.1",
     "gifsicle": "^5.3.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
@@ -22,8 +23,10 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-sass": "^5.1.0",
     "gulp-uglify-es": "^3.0.0",
-    "pngquant-bin": "^6.0.0",
-    "sass": "^1.49.9"
+    "normalize.css": "^8.0.1",
+    "pngquant-bin": "^6.0.1",
+    "sass": "^1.69.5",
+    "swiper": "^11.0.5"
   },
   "browserslist": [
     "last 2 versions"
